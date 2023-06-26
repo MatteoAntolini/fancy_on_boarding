@@ -2,8 +2,6 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:fancy_on_boarding/src/pager_indicator.dart';
 
-import 'pager_indicator.dart';
-
 class PageDragger extends StatefulWidget {
   final int currentIndex;
   final bool canDragLeftToRight;
